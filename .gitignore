@@ -1,0 +1,12 @@
+# --- Entorno y dependencias ---
+.venv/
+__pycache__/
+*.pyc
+
+# --- Builds de PyInstaller ---
+build/
+dist/
+*.spec
+
+# --- Herramientas locales ---
+.claude/
